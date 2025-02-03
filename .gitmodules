@@ -1,0 +1,3 @@
+[submodule "postman-project-1-mock-api"]
+	path = postman-project-1-mock-api
+	url = git@github.com:rizk-omarsherif/postman-project-1-mock-api.git
